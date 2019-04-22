@@ -1,3 +1,5 @@
+// This file introduces the welcome screen
+
 #include <ncurses.h>
 #include <stdio.h>
 #include <string.h>
