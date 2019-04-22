@@ -1,4 +1,4 @@
-// TODO: Map function, 3 lives (i.e 3 chances to miss a word), split code into multiple files (add a makefile),
+// TODO: Map function, 3 lives (i.e 3 chances to miss a word), split code into multiple files (add a Makefile),
 
 //NOTE: getch() and wgetch() will refresh the screen before getting a char input from that screen
 
